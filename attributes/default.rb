@@ -1,4 +1,4 @@
-default['logstash']['basedir'] = "/opt/logstash"
+default['logstash']['basedir'] = "/etc/logstash"
 default['logstash']['user'] = "logstash"
 default['logstash']['group'] = "logstash"
 default['logstash']['log_dir'] = "/var/log/logstash"
